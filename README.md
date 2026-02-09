@@ -1,11 +1,11 @@
->>Project Title
+# Project Title
 
 
 WhatsApp Web Automatic Message Sender
 
 This project is a Python script that sends automatic messages via WhatsApp Web using Selenium.
 
->>Features
+## Features
 
 
 
@@ -20,7 +20,7 @@ Input validation (empty message / invalid count)
 Language-independent message sending
 
 
->>Technologies Used
+## Technologies Used
 
 Python
 
@@ -32,7 +32,7 @@ Chrome WebDriver
 
 
 
->>How It Works
+## How It Works
 
 
 Install dependencies:
@@ -58,7 +58,7 @@ Enter how many times the message should be sent
 
 
 
->>Disclaimer
+## Disclaimer
 
 
 This project is for educational purposes only.
